@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+Flask-restful
+matplotlib
+PyJWT==1.7.1
